@@ -1,0 +1,9 @@
+{
+	"jsonNumber":1,
+	"jsonString":"APPLE",
+	"jsonArray":[2,4,6,8,9]
+	"jsonObject":{
+		"jsonNumber":87,
+		"jsonString":"Hi"
+	}
+}
